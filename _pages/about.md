@@ -17,12 +17,12 @@ permalink: /about/
 
 
 
+------
+
 
 
 ## 联系我
-<img src="https://image.flaticon.com/icons/png/512/124/124010.png" alt="FaceBook" style="zoom:5%;" /> 
-
-https://www.facebook.com/profile.php?id=100047889967019
+<img src="https://image.flaticon.com/icons/png/512/124/124010.png" alt="FaceBook" style="zoom:5%; float:left;" /> [https://www.facebook.com/profile.php?id=100047889967019](https://www.facebook.com/profile.php?id=100047889967019)
 
 
 
