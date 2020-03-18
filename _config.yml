@@ -2,7 +2,7 @@
 title:          C.J
 description:    "Hi. "
 baseurl:        "/"
-url:            "https://asd2569484392.github.io/chaojie.github.io"
+url:            "https://asd2569484392.github.io"
 
 remote_theme: chesterhow/tale
 
@@ -13,7 +13,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         chaojie
-  url:          https://asd2569484392.github.io/chaojie.github.io
+  url:          https://asd2569484392.github.io
   email:        18805698598@163.com
 
 # Build settings
