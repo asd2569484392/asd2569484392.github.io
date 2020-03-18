@@ -21,10 +21,6 @@ markdown:       kramdown
 include:
   - _pages
 
-# Assets
-sass:
-  sass_dir:     _sass
-  style:        compressed
 
 plugins:
   - jekyll-paginate
@@ -33,9 +29,3 @@ plugins:
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
-
-# Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
-# Disqus (Set to your disqus id)
-disqus:         jekyll-tale
