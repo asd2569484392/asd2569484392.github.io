@@ -42,11 +42,11 @@
 
 
 
-![image-20200323210726264](https://github.com/asd2569484392/asd2569484392.github.io/blob/master/static/images/image-20200323210726264.png?raw=true)
+![image-20200323210726264](https://asd2569484392.github.io/img/image-20200323210726264.png?raw=true)
 
 
 
-<img src="https://github.com/asd2569484392/asd2569484392.github.io/blob/master/static/images/image-20200323211534881.png?raw=true" alt="image-20200323211534881" style="zoom:33%;" />
+<img src="https://asd2569484392.github.io/img/image-20200323211534881.png?raw=true" alt="image-20200323211534881" style="zoom:33%;" />
 
 
 
@@ -64,41 +64,41 @@
 
 ### 手工账单
 
-![image-20200323212724150](https://github.com/asd2569484392/asd2569484392.github.io/blob/master/static/images/image-20200323212724150.png?raw=true)
+![image-20200323212724150](https://asd2569484392.github.io/img/image-20200323212724150.png?raw=true)
 
 
 
 ### 乐视论坛群发
 
-![image-20200323212955743](https://github.com/asd2569484392/asd2569484392.github.io/blob/master/static/images/image-20200323212955743.png?raw=true)
+![image-20200323212955743](https://asd2569484392.github.io/img/image-20200323212955743.png?raw=true)
 
 
 
 ### 定时任务
 
-![image-20200323213148074](https://github.com/asd2569484392/asd2569484392.github.io/blob/master/static/images/image-20200323213148074.png?raw=true)
+![image-20200323213148074](https://asd2569484392.github.io/img/image-20200323213148074.png?raw=true)
 
 
 
 ### 流水管理
 
-![image-20200323213412778](https://github.com/asd2569484392/asd2569484392.github.io/blob/master/static/images/image-20200323213412778.png?raw=true)
+![image-20200323213412778](https://asd2569484392.github.io/img/image-20200323213412778.png?raw=true)
 
 
 
-![image-20200323214135481](https://github.com/asd2569484392/asd2569484392.github.io/blob/master/static/images/image-20200323214135481.png?raw=true)
+![image-20200323214135481](https://asd2569484392.github.io/img/image-20200323214135481.png?raw=true)
 
 
 
 ### 云租房
 
-![image-20200323215821871](https://github.com/asd2569484392/asd2569484392.github.io/blob/master/static/images/image-20200323215821871.png?raw=true)
+![image-20200323215821871](https://asd2569484392.github.io/img/image-20200323215821871.png?raw=true)
 
 
 
 ## 系统监控（半成品）
 
-![](https://github.com/asd2569484392/asd2569484392.github.io/blob/master/static/images/174442_34095df5_5277929.png?raw=true)
+![](https://asd2569484392.github.io/img/174442_34095df5_5277929.png?raw=true)
 
 
 
