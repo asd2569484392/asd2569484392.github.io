@@ -26,7 +26,7 @@
 
 
 
-<img src="https://github.com/asd2569484392/asd2569484392.github.io/blob/master/static/images/IMG_0428.PNG?raw=true" alt="IMG_0428" style="zoom:33%;" />
+<img src="https://asd2569484392.github.io/img/IMG_0428.PNG?raw=true" alt="IMG_0428" style="zoom:33%;" />
 
 技术架构 : 微信小程序
 
